@@ -1,0 +1,28 @@
+{
+  "intents": [
+    {
+      "tag": "Greetings",
+      "Patterns": [ "Hello", "Hi", "Hey", "Good Day", "greetings", "whats up?", "How's it going?'" ],
+      "Responses": [ "Hello There", "How can i help?", "What can i do for you?" ]
+    },
+
+    {
+      "tag": "Influenza",
+      "Patterns": [ "Fever", "chills", "feverish", "cough", "sore throat", "runny nose", "aches", "tired", "fatigue" ],
+      "Responses": [ "You might have Influenza." ]
+    },
+    
+    {
+      "tag": "Name",
+      "Patterns": [ "What is your name?", "What do i call you?", "Do you have a name?", "Who are you?", "Can you tell me your name?", "What are you?" ],
+      "Responses": [ "I do not have a name, I am a medical chatbot.", "You can call me medical chatbot.", "I am a medical chatbot." ]
+    },
+
+    {
+      "tag": "Goodbye",
+      "Patterns": [ "Hello", "Hi", "Hey", "Good Day", "greetings", "whats up?", "How's it going?'" ],
+      "Responses": [ "Hello There", "How can i help?", "What can i do for you?" ]
+    }
+
+  ]
+}
