@@ -63,3 +63,36 @@ def get_response(intents_list, intents_json):
             result = random.choice(i['responses'])
             break
     return result
+
+#create the main window object
+root = tk.Tk()
+root.title("Medical Chatbot")
+
+#create the text box where the convesation is going to be
+conversation = tk.Text(root, bg="white", fg="black", width=50, height=30)
+conversation.pack()
+
+message = tk.StringVar()
+#Create the text box where the user inputs their sentence
+message_entry = tk.Entry(root, textvariable=message)
+message_entry.pack()
+
+#the function ran by the send button
+def send_message():
+    user_message = message.get()
+    ints = predict_class(user_message)
+    res = get_response(ints, intents)
+    conversation.insert("end", "You: " + user_message + "\n")
+    conversation.insert("end", "Chatbot: " + res + "\n")
+    message.set("")
+
+#creating the button its self
+send_button = tk.Button(root, text="Send", command=send_message)
+send_button.pack()
+
+#initiate the main loop
+root.mainloop()
+
+if name == 'main':
+    print("Bot is Running")
+    send_message()
