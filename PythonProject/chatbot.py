@@ -92,8 +92,16 @@ def send_message():
     conversation.insert("end", "Chatbot: " + res + "\n")
     message.set("")
 
+
+right_image = tk.PhotoImage(file="ufix.png")
+left_image = tk.PhotoImage(file="brainvire.png")
+
 send_button = tk.Button(root, text="Send", command=send_message)
 send_button.pack()
+tk.Label(root, image=right_image).pack(side="right")
+tk.Label(root, image=left_image).pack(side="left")
+
+
 
 root.mainloop()
 
