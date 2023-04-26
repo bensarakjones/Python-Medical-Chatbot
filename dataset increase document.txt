@@ -1,0 +1,350 @@
+    {
+      "tag": "Breast cancer",
+      "patterns": [ "lump in breast", "nipple discharge", "redness or scaling of skin", "changes in breast shape or size", "swollen lymph nodes" ],
+      "responses": [ "According to your symptoms you might have Breast cancer", "You might have Breast cancer", "I suppose You might have Breast cancer" ]
+    },
+	
+	{
+  "tag": "Lactose intolerance",
+  "patterns": [ "bloating", "abdominal pain", "diarrhea", "nausea", "flatulence" ],
+  "responses": [ "According to your symptoms you might have Lactose intolerance", "You might have Lactose intolerance", "I suppose You might have Lactose intolerance" ]
+   },
+
+{
+  "tag": "Laryngitis",
+  "patterns": [ "hoarse voice", "sore throat", "dry cough", "fever", "runny nose" ],
+  "responses": [ "According to your symptoms you might have Laryngitis", "You might have Laryngitis", "I suppose You might have Laryngitis" ]
+},
+
+{
+  "tag": "Liver cancer",
+  "patterns": [ "fatigue", "unexplained weight loss", "abdominal pain", "loss of appetite", "jaundice" ],
+  "responses": [ "According to your symptoms you might have Liver cancer", "You might have Liver cancer", "I suppose You might have Liver cancer" ]
+},
+{
+  "tag": "Lupus",
+  "patterns": [ "fatigue", "joint pain", "fever", "skin rash", "headaches" ],
+  "responses": [ "According to your symptoms you might have Lupus", "You might have Lupus", "I suppose You might have Lupus" ]
+},
+
+{
+  "tag": "Lyme disease",
+  "patterns": [ "bull's eye rash", "fever", "headaches", "fatigue", "muscle aches" ],
+  "responses": [ "According to your symptoms you might have Lyme disease", "You might have Lyme disease", "I suppose You might have Lyme disease" ]
+},
+
+{
+  "tag": "Malaria",
+  "patterns": [ "fever", "chills", "headaches", "nausea", "vomiting" ],
+  "responses": [ "According to your symptoms you might have Malaria", "You might have Malaria", "I suppose You might have Malaria" ]
+},
+
+{
+  "tag": "Measles",
+  "patterns": [ "high fever", "cough", "runny nose", "red eyes", "rash" ],
+  "responses": [ "According to your symptoms you might have Measles", "You might have Measles", "I suppose You might have Measles" ]
+},
+{
+  "tag": "Meningitis",
+  "patterns": [ "fever", "headache", "stiff neck", "sensitivity to light", "nausea" ],
+  "responses": [ "According to your symptoms you might have Meningitis", "You might have Meningitis", "I suppose You might have Meningitis" ]
+},
+
+  {
+    "tag": "Croup",
+    "patterns": [ "barking cough", "hoarse voice", "stridor (high-pitched breathing sound)", "sore throat", "difficulty swallowing", "fever", "runny nose", "nasal congestion", "respiratory distress", "restlessness" ],
+    "responses": [ "Based on your symptoms, your child might have croup", "Your child might have croup", "It's possible that your child has croup" ]
+  },
+
+  {
+    "tag": "Chickenpox",
+    "patterns": [ "rash with red, itchy blisters", "fever", "headache", "loss of appetite", "malaise", "fluid-filled blisters", "crusts over the blisters", "itchiness", "fatigue", "sore throat" ],
+    "responses": [ "Based on your symptoms, your child might have chickenpox", "Your child might have chickenpox", "It's possible that your child has chickenpox" ]
+  },
+  {
+    "tag": "Pediatric Asthma",
+    "patterns": [ "coughing", "wheezing", "shortness of breath", "chest tightness", "rapid breathing", "difficulty speaking", "fatigue", "chest pain", "retractions (sucking in of skin between ribs or at base of neck during breathing)" ],
+    "responses": [ "Based on your symptoms, your child might have pediatric asthma", "Your child might have pediatric asthma", "It's possible that your child has pediatric asthma" ]
+  },
+
+  {
+    "tag": "Osteoporosis",
+    "patterns": [ "weak or brittle bones", "fractures, especially in the hip, spine, or wrist", "back pain", "loss of height", "stooped posture", "reduced mobility", "decreased grip strength", "bone pain", "tendency to fracture easily" ],
+    "responses": [ "Based on your symptoms, you might have osteoporosis", "You might have osteoporosis", "It's possible that you have osteoporosis" ]
+  },
+
+  {
+    "tag": "Macular Degeneration",
+    "patterns": [ "blurred or distorted vision", "difficulty seeing in low light", "decreased color perception", "blank or dark areas in central vision", "straight lines appearing wavy or crooked", "difficulty recognizing faces", "decreased central vision", "increased sensitivity to glare", "reduced contrast sensitivity" ],
+    "responses": [ "Based on your symptoms, you might have macular degeneration", "You might have macular degeneration", "It's possible that you have macular degeneration" ]
+  },
+
+  {
+    "tag": "Scoliosis",
+    "patterns": [ "abnormal curvature of the spine", "uneven shoulders", "uneven waist", "leaning to one side", "back pain", "difficulty breathing", "fatigue", "muscle weakness", "numbness or tingling in the legs", "uneven hips" ],
+    "responses": [ "Based on your symptoms, you might have scoliosis", "You might have scoliosis", "It's possible that you have scoliosis" ]
+  },
+  {
+    "tag": "Tuberculosis",
+    "patterns": [ "persistent cough", "chest pain", "coughing up blood", "fatigue", "fever", "night sweats", "loss of appetite", "weight loss", "chills", "weakness", "shortness of breath", "swollen lymph nodes" ],
+    "responses": [ "Based on your symptoms, you might have tuberculosis", "You might have tuberculosis", "It's possible that you have tuberculosis" ]
+  },
+
+  {
+    "tag": "Ulcerative Colitis",
+    "patterns": [ "abdominal pain", "bloody diarrhea", "rectal bleeding", "urgent need to have a bowel movement", "diarrhea", "fatigue", "fever", "loss of appetite", "weight loss", "joint pain", "skin rash", "eye inflammation" ],
+    "responses": [ "Based on your symptoms, you might have ulcerative colitis", "You might have ulcerative colitis", "It's possible that you have ulcerative colitis" ]
+  },
+
+  {
+    "tag": "Varicose Veins",
+    "patterns": [ "visible, swollen veins", "aching or throbbing pain", "heaviness or fatigue in the legs", "itching or burning sensation", "muscle cramps", "swelling in the lower legs", "skin discoloration", "ulcers or sores on the skin", "restless legs" ],
+    "responses": [ "Based on your symptoms, you might have varicose veins", "You might have varicose veins", "It's possible that you have varicose veins" ]
+  },
+
+  {
+    "tag": "Xeroderma Pigmentosum",
+    "patterns": [ "extreme sensitivity to sunlight", "freckle-like spots on the skin", "dry, rough, and thinning skin", "burning or stinging sensation on exposed skin", "premature aging of the skin", "eye abnormalities", "neurological problems", "increased risk of skin cancer", "hearing loss", "mental retardation" ],
+    "responses": [ "Based on your symptoms, you might have xeroderma pigmentosum", "You might have xeroderma pigmentos
+ },
+
+  {
+    "tag": "Rheumatoid Arthritis",
+    "patterns": [ "joint pain", "joint swelling", "joint stiffness", "fatigue", "fever", "loss of appetite", "morning stiffness", "tender joints", "symmetrical joint involvement", "decreased range of motion", "warmth and redness over affected joints", "small joints of hands and feet are commonly affected" ],
+    "responses": [ "Based on your symptoms, you might have rheumatoid arthritis", "You might have rheumatoid arthritis", "It's possible that you have rheumatoid arthritis" ]
+  },
+
+  {
+    "tag": "Parkinson's Disease",
+    "patterns": [ "tremors", "rigidity", "bradykinesia (slowness of movement)", "postural instability", "balance problems", "stooped posture", "shuffling gait", "small handwriting", "reduced facial expression", "loss of sense of smell", "sleep disturbances", "mood changes", "cognitive changes", "difficulty speaking or swallowing" ],
+    "responses": [ "Based on your symptoms, you might have Parkinson's disease", "You might have Parkinson's disease", "It's possible that you have Parkinson's disease" ]
+  },
+
+  {
+    "tag": "Polycystic Ovary Syndrome (PCOS)",
+    "patterns": [ "irregular periods", "heavy or prolonged menstrual bleeding", "excess hair growth", "acne", "weight gain", "difficulty losing weight", "insulin resistance", "fatigue", "mood swings", "depression", "anxiety", "headaches", "pelvic pain", "infertility" ],
+    "responses": [ "Based on your symptoms, you might have polycystic ovary syndrome (PCOS)", "You might have polycystic ovary syndrome (PCOS)", "It's possible that you have polycystic ovary syndrome (PCOS)" ]
+  },
+
+
+  {
+    "tag": "Narcolepsy",
+    "patterns": [ "excessive daytime sleepiness", "sudden episodes of sleep attacks", "cataplexy (sudden muscle weakness)", "sleep paralysis", "hallucinations", "fragmented sleep", "automatic behaviors", "nighttime wakefulness", "memory problems", "mood changes", "loss of muscle tone", "trouble concentrating" ],
+    "responses": [ "Based on your symptoms, you might have narcolepsy", "You might have narcolepsy", "It's possible that you have narcolepsy" ]
+  },
+
+  {
+    "tag": "Nephrotic Syndrome",
+    "patterns": [ "swelling (edema)", "foamy urine", "fatigue", "loss of appetite", "weight gain", "hypertension", "hyperlipidemia", "hypoalbuminemia", "elevated cholesterol levels", "urinary tract infections", "kidney damage", "proteinuria", "frequent infections" ],
+    "responses": [ "Based on your symptoms, you might have nephrotic syndrome", "You might have nephrotic syndrome", "It's possible that you have nephrotic syndrome" ]
+  }, 
+
+  {
+    "tag": "Migraine",
+    "patterns": [ "severe headache", "throbbing pain", "nausea", "vomiting", "sensitivity to light", "sensitivity to sound", "visual disturbances", "aura", "neck pain", "fatigue", "dizziness", "numbness or tingling", "difficulty speaking", "mood changes" ],
+    "responses": [ "Based on your symptoms, you might have a migraine", "You might have a migraine", "It's possible that you have a migraine" ]
+  },
+
+  {
+    "tag": "Multiple Sclerosis",
+    "patterns": [ "fatigue", "numbness or tingling in limbs", "weakness", "difficulty walking", "muscle stiffness", "muscle spasms", "blurred or double vision", "problems with coordination", "loss of balance", "memory problems", "trouble speaking", "depression", "difficulty concentrating", "bladder or bowel problems" ],
+    "responses": [ "Based on your symptoms, you might have multiple sclerosis", "You might have multiple sclerosis", "It's possible that you have multiple sclerosis" ]
+  },
+
+{
+  "tag": "Forearm Fracture",
+  "patterns": [ "pain in the forearm", "swelling", "deformity", "tenderness", "difficulty moving the arm", "numbness or tingling in the hand" ],
+  "responses": [ "Based on your symptoms, you might have a fractured forearm", "You might have a forearm fracture", "It's possible that you have a broken forearm" ]
+}, 
+
+{
+  "tag": "Ankle Fracture",
+  "patterns": [ "pain in the ankle", "swelling", "bruising", "difficulty bearing weight", "deformity", "limited range of motion" ],
+  "responses": [ "Based on your symptoms, you might have a fractured ankle", "You might have an ankle fracture", "It's possible that you have a broken ankle" ]
+},
+
+{
+  "tag": "Wrist Fracture",
+  "patterns": [ "pain in the wrist", "swelling", "deformity", "tenderness", "difficulty moving the wrist", "numbness or tingling in the hand" ],
+  "responses": [ "Based on your symptoms, you might have a fractured wrist", "You might have a wrist fracture", "It's possible that you have a broken wrist" ]
+},
+
+{
+  "tag": "COVID-19",
+  "patterns": [ "fever", "cough", "shortness of breath", "loss of taste or smell", "fatigue", "muscle or body aches", "sore throat" ],
+  "responses": [ "Based on your symptoms, you might have COVID-19", "You might have COVID-19", "I suppose you might have COVID-19" ]
+},
+
+{
+  "tag": "Ebola",
+  "patterns": [ "fever", "severe headache", "muscle pain", "weakness", "vomiting", "diarrhea", "external bleeding" ],
+  "responses": [ "Based on your symptoms, you might have Ebola", "You might have Ebola", "I suppose you might have Ebola" ]
+},
+
+{
+  "tag": "Rabies",
+  "patterns": [ "fever", "headache", "excessive salivation", "muscle weakness", "fear of water", "confusion", "agitation" ],
+  "responses": [ "Based on your symptoms, you might have Rabies", "You might have Rabies", "I suppose you might have Rabies" ]
+},
+
+{
+  "tag": "HIV/AIDS",
+  "patterns": [ "unexplained weight loss", "fever", "chronic fatigue", "swollen lymph nodes", "night sweats", "persistent cough", "diarrhea" ],
+  "responses": [ "Based on your symptoms, you might have HIV/AIDS", "You might have HIV/AIDS", "I suppose you might have HIV/AIDS" ]
+},
+
+{
+  "tag": "Creutzfeldt-Jakob Disease (CJD)",
+  "patterns": [ "rapidly progressive dementia", "personality changes", "confusion", "difficulty speaking or swallowing", "muscle weakness", "vision problems" ],
+  "responses": [ "Based on your symptoms, you might have Creutzfeldt-Jakob Disease (CJD)", "You might have Creutzfeldt-Jakob Disease (CJD)", "I suppose you might have Creutzfeldt-Jakob Disease (CJD)" ]
+},
+
+{
+  "tag": "Pancreatic Cancer",
+  "patterns": [ "abdominal pain", "unintended weight loss", "jaundice (yellowing of the skin and eyes)", "loss of appetite", "nausea", "fatigue" ],
+  "responses": [ "Based on your symptoms, you might have Pancreatic Cancer", "You might have Pancreatic Cancer", "I suppose you might have Pancreatic Cancer" ]
+},
+
+{
+  "tag": "Glioblastoma",
+  "patterns": [ "severe headache", "nausea and vomiting", "difficulty speaking or understanding speech", "memory loss", "personality changes", "seizures" ],
+  "responses": [ "Based on your symptoms, you might have Glioblastoma", "You might have Glioblastoma", "I suppose you might have Glioblastoma" ]
+},
+
+{
+  "tag": "Breast Cancer",
+  "patterns": [ "lump or mass in the breast", "changes in breast size, shape, or contour", "skin dimpling or puckering", "nipple discharge or changes", "breast pain or tenderness" ],
+  "responses": [ "According to your symptoms, you might have Breast Cancer", "You might have Breast Cancer", "I suppose you might have Breast Cancer" ]
+},
+
+{
+  "tag": "Ovarian Cancer",
+  "patterns": [ "pelvic or abdominal pain", "bloating or swelling", "feeling full quickly while eating", "changes in bowel or bladder habits", "abnormal vaginal bleeding" ],
+  "responses": [ "According to your symptoms, you might have Ovarian Cancer", "You might have Ovarian Cancer", "I suppose you might have Ovarian Cancer" ]
+},
+
+{
+  "tag": "Cervical Cancer",
+  "patterns": [ "abnormal vaginal bleeding", "pain during sexual intercourse", "pelvic pain", "vaginal discharge with a strong odor", "painful urination" ],
+  "responses": [ "According to your symptoms, you might have Cervical Cancer", "You might have Cervical Cancer", "I suppose you might have Cervical Cancer" ]
+},
+
+
+{
+  "tag": "Endometriosis",
+  "patterns": [ "pelvic pain", "painful menstrual cramps", "heavy or irregular menstrual periods", "pain during sexual intercourse", "infertility or difficulty getting pregnant" ],
+  "responses": [ "According to your symptoms, you might have Endometriosis", "You might have Endometriosis", "I suppose you might have Endometriosis" ]
+},
+
+{
+  "tag": "Premenstrual Syndrome (PMS)",
+  "patterns": [ "mood swings", "irritability or anger", "fatigue or low energy", "bloating or water retention", "headaches or migraines" ],
+  "responses": [ "According to your symptoms, you might have Premenstrual Syndrome (PMS)", "You might have Premenstrual Syndrome (PMS)", "I suppose you might have Premenstrual Syndrome (PMS)" ]
+},
+
+{
+  "tag": "Prostate Cancer",
+  "patterns": [ "frequent urination", "weak or interrupted urine flow", "blood in urine or semen", "pain or discomfort in the pelvic area", "erectile dysfunction" ],
+  "responses": [ "According to your symptoms, you might have Prostate Cancer", "You might have Prostate Cancer", "I suppose you might have Prostate Cancer" ]
+},
+
+{
+  "tag": "Testicular Cancer",
+  "patterns": [ "lump or swelling in the testicle", "pain or discomfort in the testicle", "enlargement or lumps in the lymph nodes", "back pain or abdominal pain", "changes in testicular shape or size" ],
+  "responses": [ "According to your symptoms, you might have Testicular Cancer", "You might have Testicular Cancer", "I suppose you might have Testicular Cancer" ]
+},
+
+{
+  "tag": "Male Breast Cancer",
+  "patterns": [ "lump or swelling in the breast tissue", "nipple discharge", "changes in the size or shape of the breast", "skin dimpling or puckering", "nipple inversion or retraction" ],
+  "responses": [ "According to your symptoms, you might have Male Breast Cancer", "You might have Male Breast Cancer", "I suppose you might have Male Breast Cancer" ]
+},
+
+{
+  "tag": "Erectile Dysfunction",
+  "patterns": [ "difficulty achieving or maintaining an erection", "reduced sexual desire", "premature ejaculation", "difficulty with orgasm", "psychological or emotional issues related to sexual function" ],
+  "responses": [ "According to your symptoms, you might have Erectile Dysfunction", "You might have Erectile Dysfunction", "I suppose you might have Erectile Dysfunction" ]
+},
+
+
+
+{
+  "tag": "Hemochromatosis",
+  "patterns": [ "joint pain", "fatigue", "abdominal pain", "darkening of the skin", "loss of sex drive" ],
+  "responses": [ "According to your symptoms you might have Hemochromatosis", "You might have Hemochromatosis", "I suppose You might have Hemochromatosis" ]
+},
+
+{
+  "tag": "Guillain-Barre Syndrome",
+  "patterns": [ "muscle weakness", "tingling or numbness in extremities", "difficulty walking", "loss of reflexes", "autonomic dysfunction" ],
+  "responses": [ "According to your symptoms you might have Guillain-Barre Syndrome", "You might have Guillain-Barre Syndrome", "I suppose You might have Guillain-Barre Syndrome" ]
+},
+
+{
+  "tag": "Ehlers-Danlos Syndrome",
+  "patterns": [ "joint hypermobility", "skin that bruises easily", "scarring and poor wound healing", "chronic pain", "gastrointestinal issues" ],
+  "responses": [ "According to your symptoms you might have Ehlers-Danlos Syndrome", "You might have Ehlers-Danlos Syndrome", "I suppose You might have Ehlers-Danlos Syndrome" ]
+},
+
+{
+  "tag": "Fibrodysplasia Ossificans Progressiva",
+  "patterns": [ "formation of bone in muscles, tendons, and ligaments", "limited joint mobility", "progressive loss of movement", "skin nodules", "difficulty breathing" ],
+  "responses": [ "According to your symptoms you might have Fibrodysplasia Ossificans Progressiva", "You might have Fibrodysplasia Ossificans Progressiva", "I suppose You might have Fibrodysplasia Ossificans Progressiva" ]
+},
+
+{
+  "tag": "Wegener's Granulomatosis",
+  "patterns": [ "upper respiratory tract symptoms", "coughing up blood", "joint pain", "skin rashes", "kidney problems" ],
+  "responses": [ "According to your symptoms you might have Wegener's Granulomatosis", "You might have Wegener's Granulomatosis", "I suppose You might have Wegener's Granulomatosis" ]
+},
+
+{
+  "tag": "Hereditary Angioedema",
+  "patterns": [ "swelling of face, lips, tongue, or throat", "abdominal pain", "nausea", "vomiting", "difficulty breathing" ],
+  "responses": [ "According to your symptoms you might have Hereditary Angioedema", "You might have Hereditary Angioedema", "I suppose You might have Hereditary Angioedema" ]
+},
+
+{
+  "tag": "Pantothenate Kinase-Associated Neurodegeneration (PKAN)",
+  "patterns": [ "progressive difficulty with movement", "dystonia (involuntary muscle contractions)", "speech difficulties", "vision changes", "personality changes" ],
+  "responses": [ "According to your symptoms you
+},
+
+{
+  "tag": "Obesity",
+  "patterns": [ "excessive weight gain", "increased body mass index (BMI)", "fatigue", "joint pain", "shortness of breath" ],
+  "responses": [ "According to your symptoms you might have Obesity", "You might have Obesity", "I suppose You might have Obesity" ]
+},
+
+{
+  "tag": "Osteoarthritis",
+  "patterns": [ "joint pain", "stiffness", "swelling", "reduced range of motion", "crepitus (grinding sensation)" ],
+  "responses": [ "According to your symptoms you might have Osteoarthritis", "You might have Osteoarthritis", "I suppose You might have Osteoarthritis" ]
+},
+
+{
+  "tag": "Pneumonia",
+  "patterns": [ "cough", "chest pain", "fever", "shortness of breath", "fatigue" ],
+  "responses": [ "According to your symptoms you might have Pneumonia", "You might have Pneumonia", "I suppose You might have Pneumonia" ]
+},
+
+{
+  "tag": "Sinusitis",
+  "patterns": [ "facial pain", "nasal congestion", "post-nasal drip", "headache", "sore throat" ],
+  "responses": [ "According to your symptoms you might have Sinusitis", "You might have Sinusitis", "I suppose You might have Sinusitis" ]
+},
+
+{
+  "tag": "Stroke",
+  "patterns": [ "sudden weakness or numbness in face, arm, or leg", "confusion", "trouble speaking", "severe headache", "dizziness" ],
+  "responses": [ "According to your symptoms you might have Stroke", "You might have Stroke",
+},
+
+
+
+
+
+
+
+
+
